@@ -7,14 +7,14 @@ namespace SimulationDay6.Controllers
 {
     public class AccountController(UserManager<User> _userManager,RoleManager<IdentityRole> _roleManager,SignInManager<User> _signInManager): Controller
     {
-        public async Task<IActionResult> CreateRoles()
-        {
+        //public async Task<IActionResult> CreateRoles()
+        //{
 
-            await _roleManager.CreateAsync(new() { Name = "Admin" });
-            await _roleManager.CreateAsync(new() { Name = "Member" });
-            await _roleManager.CreateAsync(new() { Name = "Nazarata nazarat" });
-            return Ok("Rollar yarandi");
-        }
+        //    await _roleManager.CreateAsync(new() { Name = "Admin" });
+        //    await _roleManager.CreateAsync(new() { Name = "Member" });
+        //    await _roleManager.CreateAsync(new() { Name = "Nazarata nazarat" });
+        //    return Ok("Rollar yarandi");
+        //}
 
         public async Task<IActionResult> Register()
         {
@@ -52,22 +52,22 @@ namespace SimulationDay6.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult>Login(LoginVM vm)
+        public async Task<IActionResult> Login(LoginVM vm)
         {
             if (!ModelState.IsValid)
                 return View(vm);
-            var user=await _userManager.FindByEmailAsync(vm.Email);
-            if(user == null)
+            var user = await _userManager.FindByEmailAsync(vm.Email);
+            if (user == null)
             {
                 ModelState.AddModelError("", "Username or password is wrong!");
-                    return View(vm);
+                return View(vm);
             }
 
-            var result=await _signInManager.PasswordSignInAsync(user,vm.Password,isPersistent:false,lockoutOnFailure:false);   
+            var result = await _signInManager.PasswordSignInAsync(user, vm.Password, isPersistent: false, lockoutOnFailure: false);
             if (!result.Succeeded)
             {
                 ModelState.AddModelError("", "Username or password is wrong!");
-                    return View(vm);
+                return View(vm);
             }
             return RedirectToAction("Index", "Home");
         }
@@ -75,21 +75,21 @@ namespace SimulationDay6.Controllers
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction(nameof(Login));
         }
 
-        public async Task<IActionResult> CreateAdmin()
-        {
-            User admin = new()
-            {
-                FullName = "Admin",
-                UserName = "admin",
-                Email = "admin@gmail.com"
-            };
-            await _userManager.CreateAsync(admin,"Admin");
-            await _userManager.AddToRoleAsync(admin, "Admin123@");
-            return Ok("Created admin");
-        }
+        //public async Task<IActionResult> CreateAdmin()
+        //{
+        //    User admin = new()
+        //    {
+        //        FullName = "Admin",
+        //        UserName = "admin",
+        //        Email = "admin@gmail.com"
+        //    };
+        //    await _userManager.CreateAsync(admin, "Admin123@");
+        //    await _userManager.AddToRoleAsync(admin, "Admin");
+        //    return Ok("Created admin");
+        //}
 
 
     }

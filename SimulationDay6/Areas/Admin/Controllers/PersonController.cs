@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SimulationDay6.DataAccessLayer;
 using SimulationDay6.Models;
@@ -7,6 +8,7 @@ using SimulationDay6.ViewModels.Persons;
 namespace SimulationDay6.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class PersonController(DewiDbContext _context) : Controller
     {
         public async Task< IActionResult> Index()

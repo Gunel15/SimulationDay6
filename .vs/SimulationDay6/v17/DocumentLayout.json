@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\",
+  "WorkspaceRootPath": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,44 +43,40 @@
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\dataaccesslayer\\dewidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\dataaccesslayer\\dewidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\migrations\\20250521120016_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\migrations\\20250521120016_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\migrations\\20250521053441_createdpersonsandpositionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\migrations\\20250521053441_createdpersonsandpositionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\dataaccesslayer\\dewidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\dataaccesslayer\\dewidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\migrations\\20250521120016_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\migrations\\20250521120016_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\migrations\\20250521053441_createdpersonsandpositionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\migrations\\20250521053441_createdpersonsandpositionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\viewmodels\\persons\\personupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\areas\\admin\\views\\person\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\areas\\admin\\views\\person\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\areas\\admin\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\areas\\admin\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -107,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -139,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|c:\\users\\classtime\\desktop\\simulationday6\\simulationday6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{59F8FF56-E202-479A-B95A-EA7B71395DC9}|SimulationDay6\\SimulationDay6.csproj|solutionrelative:simulationday6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -166,106 +170,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "SimulationDay6\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "SimulationDay6\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwDcAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T12:27:58.396Z",
+              "DocumentIndex": 3,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "SimulationDay6\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:09:05.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250521120016_addedIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Migrations\\20250521120016_addedIdentity.cs",
-              "RelativeDocumentMoniker": "SimulationDay6\\Migrations\\20250521120016_addedIdentity.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Migrations\\20250521120016_addedIdentity.cs",
-              "RelativeToolTip": "SimulationDay6\\Migrations\\20250521120016_addedIdentity.cs",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAgwJkAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:00:16.283Z",
+              "WhenOpened": "2025-05-21T05:56:25.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Controllers\\AccountController.cs",
               "RelativeToolTip": "SimulationDay6\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowE0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T08:02:44.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:50:14.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SimulationDay6\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SimulationDay6\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-21T04:48:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:36:04.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SimulationDay6\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T05:04:03.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DewiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\DataAccessLayer\\DewiDbContext.cs",
-              "RelativeDocumentMoniker": "SimulationDay6\\DataAccessLayer\\DewiDbContext.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\DataAccessLayer\\DewiDbContext.cs",
-              "RelativeToolTip": "SimulationDay6\\DataAccessLayer\\DewiDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:28:02.888Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimulationDay6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SimulationDay6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:04:26.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\appsettings.json",
-              "RelativeDocumentMoniker": "SimulationDay6\\appsettings.json",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\appsettings.json",
-              "RelativeToolTip": "SimulationDay6\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T05:29:47.028Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SimulationDay6\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SimulationDay6\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T12:27:58.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\Account\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeToolTip": "SimulationDay6\\ViewModels\\Account\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T08:10:53.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Account\\LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Account\\LoginVM.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\Account\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Account\\LoginVM.cs",
               "RelativeToolTip": "SimulationDay6\\ViewModels\\Account\\LoginVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,37 +308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250521053441_createdPersonsAndPositionsTable.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Migrations\\20250521053441_createdPersonsAndPositionsTable.cs",
-              "RelativeDocumentMoniker": "SimulationDay6\\Migrations\\20250521053441_createdPersonsAndPositionsTable.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Migrations\\20250521053441_createdPersonsAndPositionsTable.cs",
-              "RelativeToolTip": "SimulationDay6\\Migrations\\20250521053441_createdPersonsAndPositionsTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:34:41.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Program.cs",
-              "RelativeDocumentMoniker": "SimulationDay6\\Program.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Program.cs",
-              "RelativeToolTip": "SimulationDay6\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T04:49:17.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\User.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\User.cs",
               "RelativeToolTip": "SimulationDay6\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -314,48 +322,114 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "SimulationDay6\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "SimulationDay6\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-21T04:48:58.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SimulationDay6\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SimulationDay6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAKwAAAATAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SimulationDay6\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SimulationDay6\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T05:05:17.793Z",
+              "WhenOpened": "2025-05-21T08:38:24.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "SimulationDay6\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "SimulationDay6\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T08:38:24.921Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Program.cs",
+              "RelativeDocumentMoniker": "SimulationDay6\\Program.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Program.cs",
+              "RelativeToolTip": "SimulationDay6\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:49:17.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 9,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "SimulationDay6\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:10:53.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\appsettings.json",
+              "RelativeDocumentMoniker": "SimulationDay6\\appsettings.json",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\appsettings.json",
+              "RelativeToolTip": "SimulationDay6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T05:29:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DewiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\DataAccessLayer\\DewiDbContext.cs",
+              "RelativeDocumentMoniker": "SimulationDay6\\DataAccessLayer\\DewiDbContext.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\DataAccessLayer\\DewiDbContext.cs",
+              "RelativeToolTip": "SimulationDay6\\DataAccessLayer\\DewiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:28:02.888Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250521120016_addedIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Migrations\\20250521120016_addedIdentity.cs",
+              "RelativeDocumentMoniker": "SimulationDay6\\Migrations\\20250521120016_addedIdentity.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Migrations\\20250521120016_addedIdentity.cs",
+              "RelativeToolTip": "SimulationDay6\\Migrations\\20250521120016_addedIdentity.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAgwJkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:00:16.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250521053441_createdPersonsAndPositionsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Migrations\\20250521053441_createdPersonsAndPositionsTable.cs",
+              "RelativeDocumentMoniker": "SimulationDay6\\Migrations\\20250521053441_createdPersonsAndPositionsTable.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Migrations\\20250521053441_createdPersonsAndPositionsTable.cs",
+              "RelativeToolTip": "SimulationDay6\\Migrations\\20250521053441_createdPersonsAndPositionsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:34:41.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimulationDay6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SimulationDay6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAKwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:05:17.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -363,36 +437,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PositionController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:36:04.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAADwv2cAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:56:25.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\Position.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\Position.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\Models\\Position.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\Position.cs",
               "RelativeToolTip": "SimulationDay6\\Models\\Position.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -400,11 +449,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Update.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\Person\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Update.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\Person\\Update.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -412,11 +461,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Index.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\Person\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Index.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\Person\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -424,11 +473,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Create.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\Position\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Create.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\Position\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -436,11 +485,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "PersonUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonUpdateVM.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\Persons\\PersonUpdateVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonUpdateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonUpdateVM.cs",
               "RelativeToolTip": "SimulationDay6\\ViewModels\\Persons\\PersonUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -448,11 +497,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Create.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\Person\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Person\\Create.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\Person\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -460,11 +509,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Index.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Index.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\Position\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -472,11 +521,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Update.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\Position\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Position\\Update.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\Position\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -484,11 +533,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "SimulationDay6\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -496,11 +545,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "PositionUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionUpdateVM.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\Positions\\PositionUpdateVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionUpdateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionUpdateVM.cs",
               "RelativeToolTip": "SimulationDay6\\ViewModels\\Positions\\PositionUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -508,11 +557,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "PositionGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionGetVM.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\Positions\\PositionGetVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionGetVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionGetVM.cs",
               "RelativeToolTip": "SimulationDay6\\ViewModels\\Positions\\PositionGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -520,23 +569,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T04:50:14.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "PositionCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionCreateVM.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\Positions\\PositionCreateVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionCreateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Positions\\PositionCreateVM.cs",
               "RelativeToolTip": "SimulationDay6\\ViewModels\\Positions\\PositionCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -544,11 +581,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "PersonCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonCreateVM.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\Persons\\PersonCreateVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonCreateVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonCreateVM.cs",
               "RelativeToolTip": "SimulationDay6\\ViewModels\\Persons\\PersonCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -556,11 +593,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "PersonGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonGetVM.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\ViewModels\\Persons\\PersonGetVM.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonGetVM.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\ViewModels\\Persons\\PersonGetVM.cs",
               "RelativeToolTip": "SimulationDay6\\ViewModels\\Persons\\PersonGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -568,11 +605,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\BaseEntity.cs",
               "RelativeToolTip": "SimulationDay6\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -580,11 +617,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\Person.cs",
               "RelativeDocumentMoniker": "SimulationDay6\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Models\\Person.cs",
               "RelativeToolTip": "SimulationDay6\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -592,11 +629,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "SimulationDay6\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -604,23 +641,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SimulationDay6\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SimulationDay6\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAE8DAAAAAAAAAAAAAGcDAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T05:04:26.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -628,11 +653,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAHEBAAAAAAAAAAAuwHsBAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -640,11 +665,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "SimulationDay6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\SimulationDay6\\SimulationDay6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "SimulationDay6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

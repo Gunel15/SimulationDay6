@@ -35028,6 +35028,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\054bb409-8a51-4123-a66a-0233921d4076download.jfif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SimulationDay6</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SimulationDay6</BasePath>
+      <RelativePath>imgs/persons/054bb409-8a51-4123-a66a-0233921d4076download.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uyf58ag5gs</Fingerprint>
+      <Integrity>6m98u9QqwUrP4FyDpsSfVOXv2MEruI1Dmu9Ig9VLK60=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\054bb409-8a51-4123-a66a-0233921d4076download.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\0a87743d-e6fe-48bb-ba1c-f8747d38d091Azure Developer.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SimulationDay6</SourceId>
@@ -35081,6 +35099,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\5f8ac8f8-ce98-4413-993a-95ad48e9f320hand-drawn-web-developers_23-2148819604.avif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\7e0bcb0d-b2b8-4409-aefb-9ac3211ca0b3images.jfif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SimulationDay6</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SimulationDay6</BasePath>
+      <RelativePath>imgs/persons/7e0bcb0d-b2b8-4409-aefb-9ac3211ca0b3images.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gih2fu5vpv</Fingerprint>
+      <Integrity>KHxb7ZF9Rh4nW46phgGfp/qLEkBFiAGRN1RabGimrFc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\7e0bcb0d-b2b8-4409-aefb-9ac3211ca0b3images.jfif'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\persons\b296d119-136a-4270-8d8b-6b8adca601acAzure Developer.png'))">
       <SourceType>Package</SourceType>

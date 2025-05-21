@@ -1944,9 +1944,11 @@ wwwroot\assets\vendor\swiper\swiper-bundle.min.css
 wwwroot\assets\vendor\swiper\swiper-bundle.min.js
 wwwroot\assets\vendor\swiper\swiper-bundle.min.js.map
 wwwroot\favicon.ico
+wwwroot\imgs\persons\054bb409-8a51-4123-a66a-0233921d4076download.jfif
 wwwroot\imgs\persons\0a87743d-e6fe-48bb-ba1c-f8747d38d091Azure Developer.png
 wwwroot\imgs\persons\1f0f51d1-0359-4393-a505-7f648ff1989dhand-drawn-web-developers_23-2148819604.avif
 wwwroot\imgs\persons\5f8ac8f8-ce98-4413-993a-95ad48e9f320hand-drawn-web-developers_23-2148819604.avif
+wwwroot\imgs\persons\7e0bcb0d-b2b8-4409-aefb-9ac3211ca0b3images.jfif
 wwwroot\imgs\persons\b296d119-136a-4270-8d8b-6b8adca601acAzure Developer.png
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
