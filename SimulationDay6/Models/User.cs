@@ -2,8 +2,8 @@
 
 namespace SimulationDay6.Models
 {
-    public class User:IdentityUser
+    public class User : IdentityUser
     {
-        public string FullName {  get; set; }
+        public string FullName { get; set; }
     }
 }

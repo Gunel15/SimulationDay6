@@ -18,6 +18,7 @@ namespace SimulationDay6
             {
                 opt.Password.RequiredLength = 6;
             }).AddEntityFrameworkStores<DewiDbContext>().AddDefaultTokenProviders();
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
